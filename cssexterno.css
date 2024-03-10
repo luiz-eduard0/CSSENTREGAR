@@ -1,0 +1,34 @@
+body#idbody {
+    background-color:white; 
+}
+
+div#idpai {
+    background-color:rgb(89, 47, 7);
+    width:500px ;
+    height:500px;
+}
+div#idpai div#idfilho {
+    background-color: rgb(205, 93, 93);
+    width:50% ;
+    height:50% ;
+}
+div#idpai div#idfilho p{
+    color: rgb(123, 48, 161); 
+    background-color: rgb(41, 169, 113);
+    font-size: 15px ;
+    font-family: monospace;
+    font-weight:bold ;
+}
+div#idmae{
+    background-color: rgb(255, 2, 158);
+    width:35vw ;
+    height:100vh;
+}
+
+div#identeada{
+    background-color : rgb(102, 6, 167);
+    height:250px ;
+    width:75vw ;
+}
+
+
